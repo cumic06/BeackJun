@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\source\repos\PackTorial\PackTorial\obj\Debug\PackTorial.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\source\repos\PackTorial\PackTorial\obj\Debug\PackTorial.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\source\repos\PackTorial\PackTorial\bin\Debug\PackTorial.exe.config
+C:\Users\GimGimGim\source\repos\PackTorial\PackTorial\bin\Debug\PackTorial.exe
+C:\Users\GimGimGim\source\repos\PackTorial\PackTorial\bin\Debug\PackTorial.pdb
+C:\Users\GimGimGim\source\repos\PackTorial\PackTorial\obj\Debug\PackTorial.exe
+C:\Users\GimGimGim\source\repos\PackTorial\PackTorial\obj\Debug\PackTorial.pdb

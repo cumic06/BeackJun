@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\source\repos\N찍ㄱ\N찍ㄱ\bin\Debug\N찍ㄱ.exe.config
+C:\Users\GimGimGim\source\repos\N찍ㄱ\N찍ㄱ\bin\Debug\N찍ㄱ.exe
+C:\Users\GimGimGim\source\repos\N찍ㄱ\N찍ㄱ\bin\Debug\N찍ㄱ.pdb
+C:\Users\GimGimGim\source\repos\N찍ㄱ\N찍ㄱ\obj\Debug\N찍ㄱ.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\source\repos\N찍ㄱ\N찍ㄱ\obj\Debug\N찍ㄱ.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\source\repos\N찍ㄱ\N찍ㄱ\obj\Debug\N찍ㄱ.exe
+C:\Users\GimGimGim\source\repos\N찍ㄱ\N찍ㄱ\obj\Debug\N찍ㄱ.pdb

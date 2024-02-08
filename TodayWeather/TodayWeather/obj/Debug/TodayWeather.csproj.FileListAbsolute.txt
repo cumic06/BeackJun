@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\source\repos\TodayWeather\TodayWeather\bin\Debug\TodayWeather.exe.config
+C:\Users\GimGimGim\source\repos\TodayWeather\TodayWeather\bin\Debug\TodayWeather.exe
+C:\Users\GimGimGim\source\repos\TodayWeather\TodayWeather\bin\Debug\TodayWeather.pdb
+C:\Users\GimGimGim\source\repos\TodayWeather\TodayWeather\obj\Debug\TodayWeather.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\source\repos\TodayWeather\TodayWeather\obj\Debug\TodayWeather.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\source\repos\TodayWeather\TodayWeather\obj\Debug\TodayWeather.exe
+C:\Users\GimGimGim\source\repos\TodayWeather\TodayWeather\obj\Debug\TodayWeather.pdb

@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\source\repos\GGMAJungMin\GGMAJungMin\bin\Debug\GGMAJungMin.exe.config
+C:\Users\GimGimGim\source\repos\GGMAJungMin\GGMAJungMin\bin\Debug\GGMAJungMin.exe
+C:\Users\GimGimGim\source\repos\GGMAJungMin\GGMAJungMin\bin\Debug\GGMAJungMin.pdb
+C:\Users\GimGimGim\source\repos\GGMAJungMin\GGMAJungMin\obj\Debug\GGMAJungMin.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\source\repos\GGMAJungMin\GGMAJungMin\obj\Debug\GGMAJungMin.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\source\repos\GGMAJungMin\GGMAJungMin\obj\Debug\GGMAJungMin.exe
+C:\Users\GimGimGim\source\repos\GGMAJungMin\GGMAJungMin\obj\Debug\GGMAJungMin.pdb

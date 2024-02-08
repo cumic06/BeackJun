@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\Desktop\6기 창환파일\백준\SeSSack\SeSSack\bin\Debug\SeSSack.exe.config
+C:\Users\GimGimGim\Desktop\6기 창환파일\백준\SeSSack\SeSSack\bin\Debug\SeSSack.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\백준\SeSSack\SeSSack\bin\Debug\SeSSack.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\백준\SeSSack\SeSSack\obj\Debug\SeSSack.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\백준\SeSSack\SeSSack\obj\Debug\SeSSack.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\백준\SeSSack\SeSSack\obj\Debug\SeSSack.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\백준\SeSSack\SeSSack\obj\Debug\SeSSack.pdb
