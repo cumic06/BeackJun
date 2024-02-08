@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\VowelCount\VowelCount\bin\Debug\VowelCount.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\VowelCount\VowelCount\bin\Debug\VowelCount.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\VowelCount\VowelCount\bin\Debug\VowelCount.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\VowelCount\VowelCount\obj\Debug\VowelCount.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\VowelCount\VowelCount\obj\Debug\VowelCount.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\VowelCount\VowelCount\obj\Debug\VowelCount.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\VowelCount\VowelCount\obj\Debug\VowelCount.pdb
