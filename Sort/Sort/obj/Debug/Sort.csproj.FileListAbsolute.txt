@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Sort\Sort\bin\Debug\Sort.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\Sort\Sort\bin\Debug\Sort.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Sort\Sort\bin\Debug\Sort.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Sort\Sort\obj\Debug\Sort.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Sort\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Sort\Sort\obj\Debug\Sort.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Sort\Sort\obj\Debug\Sort.pdb
