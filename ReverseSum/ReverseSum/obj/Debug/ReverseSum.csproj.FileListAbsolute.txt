@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\ReverseSum\ReverseSum\bin\Debug\ReverseSum.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\ReverseSum\ReverseSum\bin\Debug\ReverseSum.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\ReverseSum\ReverseSum\bin\Debug\ReverseSum.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\ReverseSum\ReverseSum\obj\Debug\ReverseSum.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\ReverseSum\ReverseSum\obj\Debug\ReverseSum.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\ReverseSum\ReverseSum\obj\Debug\ReverseSum.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\ReverseSum\ReverseSum\obj\Debug\ReverseSum.pdb

@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\MaxValue\MaxValue\bin\Debug\MaxValue.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\MaxValue\MaxValue\bin\Debug\MaxValue.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\MaxValue\MaxValue\bin\Debug\MaxValue.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\MaxValue\MaxValue\obj\Debug\MaxValue.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\MaxValue\MaxValue\obj\Debug\MaxValue.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\MaxValue\MaxValue\obj\Debug\MaxValue.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\MaxValue\MaxValue\obj\Debug\MaxValue.pdb

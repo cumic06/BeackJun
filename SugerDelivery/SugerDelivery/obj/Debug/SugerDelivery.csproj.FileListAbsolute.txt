@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\SugerDelivery\SugerDelivery\bin\Debug\SugerDelivery.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\SugerDelivery\SugerDelivery\bin\Debug\SugerDelivery.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SugerDelivery\SugerDelivery\bin\Debug\SugerDelivery.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\SugerDelivery\SugerDelivery\obj\Debug\SugerDelivery.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SugerDelivery\SugerDelivery\obj\Debug\SugerDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SugerDelivery\SugerDelivery\obj\Debug\SugerDelivery.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SugerDelivery\SugerDelivery\obj\Debug\SugerDelivery.pdb
