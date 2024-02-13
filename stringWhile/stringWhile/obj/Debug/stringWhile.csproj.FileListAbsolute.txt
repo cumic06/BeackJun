@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\stringWhile\stringWhile\bin\Debug\stringWhile.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\stringWhile\stringWhile\bin\Debug\stringWhile.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\stringWhile\stringWhile\bin\Debug\stringWhile.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\stringWhile\stringWhile\obj\Debug\stringWhile.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\stringWhile\stringWhile\obj\Debug\stringWhile.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\stringWhile\stringWhile\obj\Debug\stringWhile.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\stringWhile\stringWhile\obj\Debug\stringWhile.pdb
