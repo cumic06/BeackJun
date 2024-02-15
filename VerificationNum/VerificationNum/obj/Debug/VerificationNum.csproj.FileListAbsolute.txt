@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\VerificationNum\VerificationNum\bin\Debug\VerificationNum.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\VerificationNum\VerificationNum\bin\Debug\VerificationNum.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\VerificationNum\VerificationNum\bin\Debug\VerificationNum.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\VerificationNum\VerificationNum\obj\Debug\VerificationNum.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\VerificationNum\VerificationNum\obj\Debug\VerificationNum.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\VerificationNum\VerificationNum\obj\Debug\VerificationNum.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\VerificationNum\VerificationNum\obj\Debug\VerificationNum.pdb
