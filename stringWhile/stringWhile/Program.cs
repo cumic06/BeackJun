@@ -25,7 +25,6 @@ namespace stringWhile
                         result += s[l];
                     }
                 }
-
                 Console.WriteLine(result);
                 result = "";
             }

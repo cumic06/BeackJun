@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsSum\NumsSum\bin\Debug\NumsSum.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsSum\NumsSum\bin\Debug\NumsSum.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsSum\NumsSum\bin\Debug\NumsSum.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsSum\NumsSum\obj\Debug\NumsSum.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsSum\NumsSum\obj\Debug\NumsSum.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsSum\NumsSum\obj\Debug\NumsSum.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsSum\NumsSum\obj\Debug\NumsSum.pdb

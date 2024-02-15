@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\stringStringArray\stringStringArray\bin\Debug\stringStringArray.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\stringStringArray\stringStringArray\bin\Debug\stringStringArray.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\stringStringArray\stringStringArray\bin\Debug\stringStringArray.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\stringStringArray\stringStringArray\obj\Debug\stringStringArray.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\stringStringArray\stringStringArray\obj\Debug\stringStringArray.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\stringStringArray\stringStringArray\obj\Debug\stringStringArray.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\stringStringArray\stringStringArray\obj\Debug\stringStringArray.pdb

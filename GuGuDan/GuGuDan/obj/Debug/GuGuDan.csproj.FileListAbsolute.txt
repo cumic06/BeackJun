@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\GuGuDan\GuGuDan\bin\Debug\GuGuDan.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\GuGuDan\GuGuDan\bin\Debug\GuGuDan.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\GuGuDan\GuGuDan\bin\Debug\GuGuDan.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\GuGuDan\GuGuDan\obj\Debug\GuGuDan.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\GuGuDan\GuGuDan\obj\Debug\GuGuDan.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\GuGuDan\GuGuDan\obj\Debug\GuGuDan.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\GuGuDan\GuGuDan\obj\Debug\GuGuDan.pdb
