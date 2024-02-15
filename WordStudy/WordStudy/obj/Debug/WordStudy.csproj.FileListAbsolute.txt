@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\WordStudy\WordStudy\bin\Debug\WordStudy.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\WordStudy\WordStudy\bin\Debug\WordStudy.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\WordStudy\WordStudy\bin\Debug\WordStudy.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\WordStudy\WordStudy\obj\Debug\WordStudy.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\WordStudy\WordStudy\obj\Debug\WordStudy.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\WordStudy\WordStudy\obj\Debug\WordStudy.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\WordStudy\WordStudy\obj\Debug\WordStudy.pdb
