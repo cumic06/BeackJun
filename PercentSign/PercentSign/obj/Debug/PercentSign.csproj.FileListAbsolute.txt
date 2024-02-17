@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\PercentSign\PercentSign\bin\Debug\PercentSign.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\PercentSign\PercentSign\bin\Debug\PercentSign.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\PercentSign\PercentSign\bin\Debug\PercentSign.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\PercentSign\PercentSign\obj\Debug\PercentSign.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\PercentSign\PercentSign\obj\Debug\PercentSign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\PercentSign\PercentSign\obj\Debug\PercentSign.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\PercentSign\PercentSign\obj\Debug\PercentSign.pdb

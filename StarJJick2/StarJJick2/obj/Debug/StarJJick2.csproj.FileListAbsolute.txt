@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\StarJJick2\StarJJick2\bin\Debug\StarJJick2.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\StarJJick2\StarJJick2\bin\Debug\StarJJick2.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\StarJJick2\StarJJick2\bin\Debug\StarJJick2.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\StarJJick2\StarJJick2\obj\Debug\StarJJick2.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\StarJJick2\StarJJick2\obj\Debug\StarJJick2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\StarJJick2\StarJJick2\obj\Debug\StarJJick2.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\StarJJick2\StarJJick2\obj\Debug\StarJJick2.pdb

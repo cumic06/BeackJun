@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\SmallerThanX\SmallerThanX\bin\Debug\SmallerThanX.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\SmallerThanX\SmallerThanX\bin\Debug\SmallerThanX.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SmallerThanX\SmallerThanX\bin\Debug\SmallerThanX.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\SmallerThanX\SmallerThanX\obj\Debug\SmallerThanX.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SmallerThanX\SmallerThanX\obj\Debug\SmallerThanX.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SmallerThanX\SmallerThanX\obj\Debug\SmallerThanX.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SmallerThanX\SmallerThanX\obj\Debug\SmallerThanX.pdb

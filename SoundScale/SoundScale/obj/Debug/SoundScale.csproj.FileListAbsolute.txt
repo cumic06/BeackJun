@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\SoundScale\SoundScale\bin\Debug\SoundScale.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\SoundScale\SoundScale\bin\Debug\SoundScale.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SoundScale\SoundScale\bin\Debug\SoundScale.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\SoundScale\SoundScale\obj\Debug\SoundScale.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SoundScale\SoundScale\obj\Debug\SoundScale.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SoundScale\SoundScale\obj\Debug\SoundScale.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SoundScale\SoundScale\obj\Debug\SoundScale.pdb

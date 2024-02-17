@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\OXQuiz\OXQuiz\bin\Debug\OXQuiz.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\OXQuiz\OXQuiz\bin\Debug\OXQuiz.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\OXQuiz\OXQuiz\bin\Debug\OXQuiz.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\OXQuiz\OXQuiz\obj\Debug\OXQuiz.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\OXQuiz\OXQuiz\obj\Debug\OXQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\OXQuiz\OXQuiz\obj\Debug\OXQuiz.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\OXQuiz\OXQuiz\obj\Debug\OXQuiz.pdb

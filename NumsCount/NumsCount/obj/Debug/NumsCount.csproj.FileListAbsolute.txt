@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsCount\NumsCount\bin\Debug\NumsCount.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsCount\NumsCount\bin\Debug\NumsCount.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsCount\NumsCount\bin\Debug\NumsCount.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsCount\NumsCount\obj\Debug\NumsCount.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsCount\NumsCount\obj\Debug\NumsCount.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsCount\NumsCount\obj\Debug\NumsCount.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\NumsCount\NumsCount\obj\Debug\NumsCount.pdb
