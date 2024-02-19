@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\FindAlphabet\FindAlphabet\bin\Debug\FindAlphabet.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\FindAlphabet\FindAlphabet\bin\Debug\FindAlphabet.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\FindAlphabet\FindAlphabet\bin\Debug\FindAlphabet.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\FindAlphabet\FindAlphabet\obj\Debug\FindAlphabet.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\FindAlphabet\FindAlphabet\obj\Debug\FindAlphabet.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\FindAlphabet\FindAlphabet\obj\Debug\FindAlphabet.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\FindAlphabet\FindAlphabet\obj\Debug\FindAlphabet.pdb

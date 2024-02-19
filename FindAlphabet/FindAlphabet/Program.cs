@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace FindAlphabet
 {
@@ -10,8 +7,15 @@ namespace FindAlphabet
     {
         static void Main()
         {
-            string alphabet = "abcdefghijklmnopqrstuvwxyz";
+            StringBuilder sb = new StringBuilder();
             string s = Console.ReadLine();
+            string alphabet = "abcdefghijklmnopqrstuvwxyz";
+
+            for (int i = 0; i < alphabet.Length; i++)
+            {
+                sb.Append(s.IndexOf(alphabet[i]) + " ");
+            }
+            Console.WriteLine(sb.ToString());
         }
     }
 }
