@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Average\Average\bin\Debug\Average.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\Average\Average\bin\Debug\Average.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Average\Average\bin\Debug\Average.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Average\Average\obj\Debug\Average.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Average\Average\obj\Debug\Average.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Average\Average\obj\Debug\Average.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Average\Average\obj\Debug\Average.pdb
