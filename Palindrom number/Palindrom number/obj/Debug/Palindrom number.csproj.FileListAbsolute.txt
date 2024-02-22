@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Palindrom number\Palindrom number\bin\Debug\Palindrom number.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\Palindrom number\Palindrom number\bin\Debug\Palindrom number.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Palindrom number\Palindrom number\bin\Debug\Palindrom number.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Palindrom number\Palindrom number\obj\Debug\Palindrom number.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Palindrom number\Palindrom number\obj\Debug\Palindrom number.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Palindrom number\Palindrom number\obj\Debug\Palindrom number.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Palindrom number\Palindrom number\obj\Debug\Palindrom number.pdb

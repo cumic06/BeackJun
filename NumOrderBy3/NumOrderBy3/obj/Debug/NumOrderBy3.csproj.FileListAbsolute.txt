@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\NumOrderBy3\NumOrderBy3\bin\Debug\NumOrderBy3.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\NumOrderBy3\NumOrderBy3\bin\Debug\NumOrderBy3.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\NumOrderBy3\NumOrderBy3\bin\Debug\NumOrderBy3.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\NumOrderBy3\NumOrderBy3\obj\Debug\NumOrderBy3.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\NumOrderBy3\NumOrderBy3\obj\Debug\NumOrderBy3.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\NumOrderBy3\NumOrderBy3\obj\Debug\NumOrderBy3.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\NumOrderBy3\NumOrderBy3\obj\Debug\NumOrderBy3.pdb

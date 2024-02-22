@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
