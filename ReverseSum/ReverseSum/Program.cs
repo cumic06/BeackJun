@@ -21,7 +21,6 @@ namespace ReverseSum
 
             Array.Reverse(abc);
 
-
             string resultString = new string(abc);
             return int.Parse(resultString);
         }

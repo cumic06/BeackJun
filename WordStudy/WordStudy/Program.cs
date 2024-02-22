@@ -8,7 +8,7 @@ namespace WordStudy
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             string str = Console.ReadLine().ToUpper();
 

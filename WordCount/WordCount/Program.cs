@@ -7,8 +7,17 @@ namespace WordCount
         static void Main()
         {
             string[] str = Console.ReadLine().Trim().Split();
-            int count = str.Length;
-            Console.WriteLine(count);
+
+            int count = 0;
+
+            for (int i = 0; i < str.Length; i++)
+            {
+                if (str[i] == "")
+                {
+                    count++;
+                }
+            }
+            Console.WriteLine(str.Length - count);
         }
     }
 }
