@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Zero\Zero\bin\Debug\Zero.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\Zero\Zero\bin\Debug\Zero.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Zero\Zero\bin\Debug\Zero.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Zero\Zero\obj\Debug\Zero.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Zero\Zero\obj\Debug\Zero.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Zero\Zero\obj\Debug\Zero.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Zero\Zero\obj\Debug\Zero.pdb
