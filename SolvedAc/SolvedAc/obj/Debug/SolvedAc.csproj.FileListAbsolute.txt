@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\SolvedAc\SolvedAc\bin\Debug\SolvedAc.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\SolvedAc\SolvedAc\bin\Debug\SolvedAc.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SolvedAc\SolvedAc\bin\Debug\SolvedAc.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\SolvedAc\SolvedAc\obj\Debug\SolvedAc.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SolvedAc\SolvedAc\obj\Debug\SolvedAc.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SolvedAc\SolvedAc\obj\Debug\SolvedAc.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SolvedAc\SolvedAc\obj\Debug\SolvedAc.pdb
