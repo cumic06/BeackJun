@@ -16,10 +16,9 @@ namespace AgeSort
             for (int i = 0; i < n; i++)
             {
                 account = Console.ReadLine().Split();
-                Array.Sort(account);
-                sb.AppendLine(account[0] + " " + account[1]);
+                //sb.AppendLine(account[0] + " " + account[1]);
             }
-            Console.WriteLine(sb.ToString());
+            Console.WriteLine();
         }
     }
 }

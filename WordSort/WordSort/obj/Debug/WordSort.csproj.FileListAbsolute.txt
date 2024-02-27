@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\WordSort\WordSort\bin\Debug\WordSort.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\WordSort\WordSort\bin\Debug\WordSort.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\WordSort\WordSort\bin\Debug\WordSort.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\WordSort\WordSort\obj\Debug\WordSort.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\WordSort\WordSort\obj\Debug\WordSort.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\WordSort\WordSort\obj\Debug\WordSort.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\WordSort\WordSort\obj\Debug\WordSort.pdb
