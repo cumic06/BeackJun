@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\AgeSort\AgeSort\bin\Debug\AgeSort.exe.config
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\AgeSort\AgeSort\bin\Debug\AgeSort.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\AgeSort\AgeSort\bin\Debug\AgeSort.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\AgeSort\AgeSort\obj\Debug\AgeSort.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\AgeSort\AgeSort\obj\Debug\AgeSort.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\AgeSort\AgeSort\obj\Debug\AgeSort.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\AgeSort\AgeSort\obj\Debug\AgeSort.pdb
