@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace PrimeNumber
 {
@@ -7,34 +8,36 @@ namespace PrimeNumber
         static void Main()
         {
             int n = int.Parse(Console.ReadLine());
-            string[] pn = Console.ReadLine().Split();
-            int[] pnInt = Array.ConvertAll(pn, s => int.Parse(s));
-            int primeNumCount = 0;
-            int[] tenX = new int[10] { 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000 };
+            string[] numbers = Console.ReadLine().Split();
+            int[] numbersInt = new int[n];
+            int primeNum = 0;
+            StringBuilder sb = new StringBuilder();
 
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < numbers.Length; i++)
             {
-                for (int j = 0; j < tenX.Length - 1; j++)
+                numbersInt[i] = int.Parse(numbers[i]);
+            }
+
+            foreach (var number in numbersInt)
+            {
+                for (int i = 1; i < number; i++)
                 {
-                    if (pnInt[i] % 2 != 0 && pnInt[i] != 1 && pnInt[i] != tenX[j])
+                    if (number == 2 || number == 3 || number == 5 || number == 7)
                     {
-                        primeNumCount++;
+                        primeNum++;
+                        break;
                     }
-                    else if (pnInt[i] % 3 != 0 && pnInt[i] != 1 && pnInt[i] != tenX[j])
+
+                    if (i > 2 && number % i == 0 || number == 1 || number % 2 == 0) break;
+                    else if (i == number - 1)
                     {
-                        primeNumCount++;
-                    }
-                    else if (pnInt[i] % 5 != 0 && pnInt[i] != 1 && pnInt[i] != tenX[j])
-                    {
-                        primeNumCount++;
-                    }
-                    else if (pnInt[i] % 7 != 0 && pnInt[i] != 1 && pnInt[i] != tenX[j])
-                    {
-                        primeNumCount++;
+                        primeNum++;
+                        break;
                     }
                 }
             }
-            Console.WriteLine(primeNumCount);
+            sb.Append(primeNum);
+            Console.WriteLine(sb.ToString());
         }
     }
 }
