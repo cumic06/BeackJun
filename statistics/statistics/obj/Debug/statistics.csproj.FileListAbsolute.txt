@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\statistics\statistics\obj\Debug\statistics.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\statistics\statistics\obj\Debug\statistics.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\statistics\statistics\bin\Debug\statistics.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\statistics\statistics\bin\Debug\statistics.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\statistics\statistics\bin\Debug\statistics.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\statistics\statistics\obj\Debug\statistics.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\statistics\statistics\obj\Debug\statistics.pdb

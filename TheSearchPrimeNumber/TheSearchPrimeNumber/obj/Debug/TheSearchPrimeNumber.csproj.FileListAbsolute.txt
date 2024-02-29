@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\TheSearchPrimeNumber\TheSearchPrimeNumber\bin\Debug\TheSearchPrimeNumber.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\TheSearchPrimeNumber\TheSearchPrimeNumber\bin\Debug\TheSearchPrimeNumber.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\TheSearchPrimeNumber\TheSearchPrimeNumber\bin\Debug\TheSearchPrimeNumber.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\TheSearchPrimeNumber\TheSearchPrimeNumber\obj\Debug\TheSearchPrimeNumber.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\TheSearchPrimeNumber\TheSearchPrimeNumber\obj\Debug\TheSearchPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\TheSearchPrimeNumber\TheSearchPrimeNumber\obj\Debug\TheSearchPrimeNumber.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\TheSearchPrimeNumber\TheSearchPrimeNumber\obj\Debug\TheSearchPrimeNumber.pdb
