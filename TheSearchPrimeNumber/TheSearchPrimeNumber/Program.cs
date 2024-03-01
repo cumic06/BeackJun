@@ -8,22 +8,37 @@ namespace TheSearchPrimeNumber
         static void Main()
         {
             string[] k = Console.ReadLine().Split();
+
             int m = int.Parse(k[0]);
             int n = int.Parse(k[1]);
             StringBuilder sb = new StringBuilder();
 
-            for (int i = m; i <= n; i++)
-            {
-                if (i == 2 || i == 3 || i == 5 || i == 7)
-                {
-                    sb.AppendLine(i.ToString());
-                }
+            bool[] primeArray = new bool[n + 1];
 
-                if (i > 2 && i % 2 != 0 && i % 3 != 0 && i % 5 != 0 && i % 7 != 0)
+            for (int i = 2; i <= n; i++)
+            {
+                primeArray[i] = true;
+            }
+
+            for (int i = 2; i * i <= n; i++)
+            {
+                if (primeArray[i])
                 {
-                    sb.AppendLine(i.ToString());
+                    for (int j = i * i; j <= n; j += i)
+                    {
+                        primeArray[j] = false;
+                    }
                 }
             }
+
+            for (int i = m; i <= primeArray.Length - 1; i++)
+            {
+                if (primeArray[i])
+                {
+                    sb.Append(i + "\n");
+                }
+            }
+
             Console.WriteLine(sb.ToString());
         }
     }
