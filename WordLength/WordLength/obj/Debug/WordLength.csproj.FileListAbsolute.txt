@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\WordLength\WordLength\bin\Debug\WordLength.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\WordLength\WordLength\bin\Debug\WordLength.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\WordLength\WordLength\bin\Debug\WordLength.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\WordLength\WordLength\obj\Debug\WordLength.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\WordLength\WordLength\obj\Debug\WordLength.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\WordLength\WordLength\obj\Debug\WordLength.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\WordLength\WordLength\obj\Debug\WordLength.pdb
