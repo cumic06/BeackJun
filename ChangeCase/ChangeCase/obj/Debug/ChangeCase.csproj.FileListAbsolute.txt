@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\ChangeCase\ChangeCase\bin\Debug\ChangeCase.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\ChangeCase\ChangeCase\bin\Debug\ChangeCase.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\ChangeCase\ChangeCase\bin\Debug\ChangeCase.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\ChangeCase\ChangeCase\obj\Debug\ChangeCase.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\ChangeCase\ChangeCase\obj\Debug\ChangeCase.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\ChangeCase\ChangeCase\obj\Debug\ChangeCase.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\ChangeCase\ChangeCase\obj\Debug\ChangeCase.pdb
