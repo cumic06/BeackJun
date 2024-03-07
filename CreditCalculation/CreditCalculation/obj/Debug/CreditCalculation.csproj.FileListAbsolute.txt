@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\CreditCalculation\CreditCalculation\bin\Debug\CreditCalculation.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\CreditCalculation\CreditCalculation\bin\Debug\CreditCalculation.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\CreditCalculation\CreditCalculation\bin\Debug\CreditCalculation.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\CreditCalculation\CreditCalculation\obj\Debug\CreditCalculation.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\CreditCalculation\CreditCalculation\obj\Debug\CreditCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\CreditCalculation\CreditCalculation\obj\Debug\CreditCalculation.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\CreditCalculation\CreditCalculation\obj\Debug\CreditCalculation.pdb

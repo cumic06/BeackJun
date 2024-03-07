@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\JustWrite\JustWrite\bin\Debug\JustWrite.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\JustWrite\JustWrite\bin\Debug\JustWrite.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\JustWrite\JustWrite\bin\Debug\JustWrite.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\JustWrite\JustWrite\obj\Debug\JustWrite.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\JustWrite\JustWrite\obj\Debug\JustWrite.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\JustWrite\JustWrite\obj\Debug\JustWrite.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\JustWrite\JustWrite\obj\Debug\JustWrite.pdb
