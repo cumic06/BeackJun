@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Sum\Sum\bin\Debug\Sum.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\Sum\Sum\bin\Debug\Sum.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Sum\Sum\bin\Debug\Sum.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Sum\Sum\obj\Debug\Sum.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Sum\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Sum\Sum\obj\Debug\Sum.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Sum\Sum\obj\Debug\Sum.pdb

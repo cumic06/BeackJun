@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\BigIntA+B\BigIntA+B\bin\Debug\BigIntA+B.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\BigIntA+B\BigIntA+B\bin\Debug\BigIntA+B.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\BigIntA+B\BigIntA+B\bin\Debug\BigIntA+B.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\BigIntA+B\BigIntA+B\obj\Debug\BigIntA+B.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\BigIntA+B\BigIntA+B\obj\Debug\BigIntA+B.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\BigIntA+B\BigIntA+B\obj\Debug\BigIntA+B.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\BigIntA+B\BigIntA+B\obj\Debug\BigIntA+B.pdb

@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Rectangles\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\Rectangles\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Rectangles\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Rectangles\Rectangles\obj\Debug\Rectangles.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Rectangles\Rectangles\obj\Debug\Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Rectangles\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Rectangles\Rectangles\obj\Debug\Rectangles.pdb

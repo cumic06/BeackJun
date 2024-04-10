@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Canyouaddthis\Canyouaddthis\bin\Debug\Canyouaddthis.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\Canyouaddthis\Canyouaddthis\bin\Debug\Canyouaddthis.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Canyouaddthis\Canyouaddthis\bin\Debug\Canyouaddthis.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Canyouaddthis\Canyouaddthis\obj\Debug\Canyouaddthis.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Canyouaddthis\Canyouaddthis\obj\Debug\Canyouaddthis.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Canyouaddthis\Canyouaddthis\obj\Debug\Canyouaddthis.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Canyouaddthis\Canyouaddthis\obj\Debug\Canyouaddthis.pdb

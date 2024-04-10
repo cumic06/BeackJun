@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\FirstAndLastString\FirstAndLastString\bin\Debug\FirstAndLastString.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\FirstAndLastString\FirstAndLastString\bin\Debug\FirstAndLastString.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\FirstAndLastString\FirstAndLastString\bin\Debug\FirstAndLastString.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\FirstAndLastString\FirstAndLastString\obj\Debug\FirstAndLastString.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\FirstAndLastString\FirstAndLastString\obj\Debug\FirstAndLastString.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\FirstAndLastString\FirstAndLastString\obj\Debug\FirstAndLastString.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\FirstAndLastString\FirstAndLastString\obj\Debug\FirstAndLastString.pdb

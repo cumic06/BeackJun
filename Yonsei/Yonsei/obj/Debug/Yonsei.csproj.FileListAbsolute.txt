@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Yonsei\Yonsei\bin\Debug\Yonsei.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Yonsei\Yonsei\bin\Debug\Yonsei.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Yonsei\Yonsei\obj\Debug\Yonsei.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Yonsei\Yonsei\obj\Debug\Yonsei.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Yonsei\Yonsei\obj\Debug\Yonsei.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Yonsei\Yonsei\obj\Debug\Yonsei.pdb

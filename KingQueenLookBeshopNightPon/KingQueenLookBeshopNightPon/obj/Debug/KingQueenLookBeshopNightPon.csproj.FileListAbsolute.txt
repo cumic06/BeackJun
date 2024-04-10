@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\KingQueenLookBeshopNightPon\KingQueenLookBeshopNightPon\bin\Debug\KingQueenLookBeshopNightPon.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\KingQueenLookBeshopNightPon\KingQueenLookBeshopNightPon\bin\Debug\KingQueenLookBeshopNightPon.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\KingQueenLookBeshopNightPon\KingQueenLookBeshopNightPon\bin\Debug\KingQueenLookBeshopNightPon.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\KingQueenLookBeshopNightPon\KingQueenLookBeshopNightPon\obj\Debug\KingQueenLookBeshopNightPon.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\KingQueenLookBeshopNightPon\KingQueenLookBeshopNightPon\obj\Debug\KingQueenLookBeshopNightPon.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\KingQueenLookBeshopNightPon\KingQueenLookBeshopNightPon\obj\Debug\KingQueenLookBeshopNightPon.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\KingQueenLookBeshopNightPon\KingQueenLookBeshopNightPon\obj\Debug\KingQueenLookBeshopNightPon.pdb

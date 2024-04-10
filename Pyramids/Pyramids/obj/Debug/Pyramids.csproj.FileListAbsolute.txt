@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Pyramids\Pyramids\bin\Debug\Pyramids.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Pyramids\Pyramids\bin\Debug\Pyramids.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Pyramids\Pyramids\obj\Debug\Pyramids.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Pyramids\Pyramids\obj\Debug\Pyramids.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Pyramids\Pyramids\obj\Debug\Pyramids.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Pyramids\Pyramids\obj\Debug\Pyramids.pdb
