@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\GiJJick\GiJJick\bin\Debug\GiJJick.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\GiJJick\GiJJick\bin\Debug\GiJJick.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\GiJJick\GiJJick\obj\Debug\GiJJick.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\GiJJick\GiJJick\obj\Debug\GiJJick.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\GiJJick\GiJJick\obj\Debug\GiJJick.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\GiJJick\GiJJick\obj\Debug\GiJJick.pdb
