@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\AdmissionManagement\AdmissionManagement\bin\Debug\AdmissionManagement.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\AdmissionManagement\AdmissionManagement\bin\Debug\AdmissionManagement.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\AdmissionManagement\AdmissionManagement\obj\Debug\AdmissionManagement.pdb
