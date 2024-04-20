@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\NextLine\NextLine\bin\Debug\NextLine.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\NextLine\NextLine\bin\Debug\NextLine.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\NextLine\NextLine\obj\Debug\NextLine.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\NextLine\NextLine\obj\Debug\NextLine.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\NextLine\NextLine\obj\Debug\NextLine.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\NextLine\NextLine\obj\Debug\NextLine.pdb
