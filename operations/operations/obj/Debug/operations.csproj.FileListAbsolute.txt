@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\operations\operations\bin\Debug\operations.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\operations\operations\bin\Debug\operations.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\operations\operations\obj\Debug\operations.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\operations\operations\obj\Debug\operations.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\operations\operations\obj\Debug\operations.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\operations\operations\obj\Debug\operations.pdb

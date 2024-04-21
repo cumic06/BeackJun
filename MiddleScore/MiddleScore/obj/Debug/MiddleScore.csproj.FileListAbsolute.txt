@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\MiddleScore\MiddleScore\bin\Debug\MiddleScore.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\MiddleScore\MiddleScore\bin\Debug\MiddleScore.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\MiddleScore\MiddleScore\obj\Debug\MiddleScore.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\MiddleScore\MiddleScore\obj\Debug\MiddleScore.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\MiddleScore\MiddleScore\obj\Debug\MiddleScore.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\MiddleScore\MiddleScore\obj\Debug\MiddleScore.pdb
