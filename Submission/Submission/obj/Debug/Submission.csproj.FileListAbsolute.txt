@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Submission\Submission\bin\Debug\Submission.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Submission\Submission\bin\Debug\Submission.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Submission\Submission\obj\Debug\Submission.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Submission\Submission\obj\Debug\Submission.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Submission\Submission\obj\Debug\Submission.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Submission\Submission\obj\Debug\Submission.pdb
