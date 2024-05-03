@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
