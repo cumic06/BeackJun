@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Counting\Counting\bin\Debug\Counting.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Counting\Counting\bin\Debug\Counting.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Counting\Counting\obj\Debug\Counting.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Counting\Counting\obj\Debug\Counting.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Counting\Counting\obj\Debug\Counting.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Counting\Counting\obj\Debug\Counting.pdb
