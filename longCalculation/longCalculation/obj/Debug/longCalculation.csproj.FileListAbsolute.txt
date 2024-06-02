@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\longCalculation\longCalculation\bin\Debug\longCalculation.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\longCalculation\longCalculation\bin\Debug\longCalculation.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\longCalculation\longCalculation\obj\Debug\longCalculation.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\longCalculation\longCalculation\obj\Debug\longCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\longCalculation\longCalculation\obj\Debug\longCalculation.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\longCalculation\longCalculation\obj\Debug\longCalculation.pdb

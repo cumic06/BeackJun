@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadranted\Quadranted\bin\Debug\Quadranted.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadranted\Quadranted\bin\Debug\Quadranted.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadranted\Quadranted\obj\Debug\Quadranted.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadranted\Quadranted\obj\Debug\Quadranted.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadranted\Quadranted\obj\Debug\Quadranted.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadranted\Quadranted\obj\Debug\Quadranted.pdb
