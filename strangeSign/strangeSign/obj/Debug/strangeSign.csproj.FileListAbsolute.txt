@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\strangeSign\strangeSign\bin\Debug\strangeSign.exe.config
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\strangeSign\strangeSign\bin\Debug\strangeSign.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\strangeSign\strangeSign\bin\Debug\strangeSign.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\strangeSign\strangeSign\obj\Debug\strangeSign.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\strangeSign\strangeSign\obj\Debug\strangeSign.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\strangeSign\strangeSign\obj\Debug\strangeSign.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\strangeSign\strangeSign\obj\Debug\strangeSign.pdb
