@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\PerformAlgorithm4\PerformAlgorithm4\bin\Debug\PerformAlgorithm4.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\PerformAlgorithm4\PerformAlgorithm4\bin\Debug\PerformAlgorithm4.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\PerformAlgorithm4\PerformAlgorithm4\obj\Debug\PerformAlgorithm4.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\PerformAlgorithm4\PerformAlgorithm4\obj\Debug\PerformAlgorithm4.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\PerformAlgorithm4\PerformAlgorithm4\obj\Debug\PerformAlgorithm4.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\PerformAlgorithm4\PerformAlgorithm4\obj\Debug\PerformAlgorithm4.pdb

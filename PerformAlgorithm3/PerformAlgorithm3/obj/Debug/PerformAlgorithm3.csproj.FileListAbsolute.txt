@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\PerformAlgorithm3\PerformAlgorithm3\bin\Debug\PerformAlgorithm3.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\PerformAlgorithm3\PerformAlgorithm3\bin\Debug\PerformAlgorithm3.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\PerformAlgorithm3\PerformAlgorithm3\obj\Debug\PerformAlgorithm3.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\PerformAlgorithm3\PerformAlgorithm3\obj\Debug\PerformAlgorithm3.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\PerformAlgorithm3\PerformAlgorithm3\obj\Debug\PerformAlgorithm3.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\PerformAlgorithm3\PerformAlgorithm3\obj\Debug\PerformAlgorithm3.pdb
