@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\giantGreenTower\giantGreenTower\bin\Debug\giantGreenTower.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\giantGreenTower\giantGreenTower\bin\Debug\giantGreenTower.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\giantGreenTower\giantGreenTower\obj\Debug\giantGreenTower.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\giantGreenTower\giantGreenTower\obj\Debug\giantGreenTower.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\giantGreenTower\giantGreenTower\obj\Debug\giantGreenTower.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\giantGreenTower\giantGreenTower\obj\Debug\giantGreenTower.pdb
