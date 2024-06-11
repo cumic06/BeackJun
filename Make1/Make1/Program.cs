@@ -16,11 +16,14 @@ namespace Make1
 
         static int Make1(int x)
         {
-            if (x % 3 == 0)
+            if (x == 1) return 1;
+
+            if (x / 3 == 1)
             {
                 x /= 3;
+                count++;
             }
-            else if (x % 2 == 0)
+            else if (x / 2 == 1)
             {
                 x /= 2;
                 count++;

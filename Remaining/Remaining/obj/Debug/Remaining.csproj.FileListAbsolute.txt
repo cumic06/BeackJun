@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Remaining\Remaining\bin\Debug\Remaining.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Remaining\Remaining\bin\Debug\Remaining.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Remaining\Remaining\obj\Debug\Remaining.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Remaining\Remaining\obj\Debug\Remaining.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Remaining\Remaining\obj\Debug\Remaining.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Remaining\Remaining\obj\Debug\Remaining.pdb
