@@ -4,44 +4,40 @@ namespace Make1
 {
     class Program
     {
-        static void Main(string[] args)
+        static int count = 0;
+        static void Main()
         {
-            int X = int.Parse(Console.ReadLine());
+            int x = int.Parse(Console.ReadLine());
             int count = 0;
-            if (X > 0)
-            {
-                while (X > 2)
-                {
-                    if (X % 3 == 0)
-                    {
-                        X /= 3;
-                        count++;
-                        Console.WriteLine("%3 " + X);
-                    }
-                    else if (X % 2 == 0)
-                    {
-                        X /= 2;
-                        count++;
-                        Console.WriteLine("%2 " + X);
-                    }
-                    else
-                    {
-                        Min(ref X, ref count);
-                    }
-                }
-                Min(ref X, ref count);
-                Console.WriteLine("result " + count);
-                Console.ReadKey();
-            }
+
+            count += Make1(x);
+            Console.WriteLine(count);
         }
 
-        static void Min(ref int X, ref int count)
+        static int Make1(int x)
         {
-            if (X > 1)
+            if (x % 3 == 0)
             {
-                X--;
+                x /= 3;
+            }
+            else if (x % 2 == 0)
+            {
+                x /= 2;
                 count++;
-                Console.WriteLine("Min" + X);
+            }
+            else
+            {
+                x--;
+                count++;
+            }
+
+            if (x == 1)
+            {
+                return count;
+            }
+            else
+            {
+                return Make1(x);
             }
         }
     }

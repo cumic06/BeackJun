@@ -5,3 +5,10 @@ C:\Users\Owner\Documents\GitHub\BeackJun\Make1\Make1\obj\Debug\Make1.csproj.Asse
 C:\Users\Owner\Documents\GitHub\BeackJun\Make1\Make1\obj\Debug\Make1.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Documents\GitHub\BeackJun\Make1\Make1\obj\Debug\Make1.exe
 C:\Users\Owner\Documents\GitHub\BeackJun\Make1\Make1\obj\Debug\Make1.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Make1\Make1\bin\Debug\Make1.exe.config
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Make1\Make1\bin\Debug\Make1.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Make1\Make1\bin\Debug\Make1.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Make1\Make1\obj\Debug\Make1.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Make1\Make1\obj\Debug\Make1.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Make1\Make1\obj\Debug\Make1.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Make1\Make1\obj\Debug\Make1.pdb
