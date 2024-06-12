@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Multiplication\Multiplication\bin\Debug\Multiplication.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Multiplication\Multiplication\bin\Debug\Multiplication.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Multiplication\Multiplication\obj\Debug\Multiplication.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Multiplication\Multiplication\obj\Debug\Multiplication.pdb
