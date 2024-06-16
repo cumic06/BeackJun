@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\CodingisP.E\CodingisP.E\bin\Debug\CodingisP.E.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\CodingisP.E\CodingisP.E\bin\Debug\CodingisP.E.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\CodingisP.E\CodingisP.E\obj\Debug\CodingisP.E.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\CodingisP.E\CodingisP.E\obj\Debug\CodingisP.E.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\CodingisP.E\CodingisP.E\obj\Debug\CodingisP.E.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\CodingisP.E\CodingisP.E\obj\Debug\CodingisP.E.pdb
