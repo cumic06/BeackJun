@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\A+B-8\A+B-8\bin\Debug\A+B-8.exe.config
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\A+B-8\A+B-8\bin\Debug\A+B-8.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\A+B-8\A+B-8\bin\Debug\A+B-8.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\A+B-8\A+B-8\obj\Debug\A+B-8.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\A+B-8\A+B-8\obj\Debug\A+B-8.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\A+B-8\A+B-8\obj\Debug\A+B-8.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\A+B-8\A+B-8\obj\Debug\A+B-8.pdb
