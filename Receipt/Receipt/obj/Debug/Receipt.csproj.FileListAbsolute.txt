@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Receipt\Receipt\bin\Debug\Receipt.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Receipt\Receipt\bin\Debug\Receipt.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Receipt\Receipt\obj\Debug\Receipt.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Receipt\Receipt\obj\Debug\Receipt.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Receipt\Receipt\obj\Debug\Receipt.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Receipt\Receipt\obj\Debug\Receipt.pdb
