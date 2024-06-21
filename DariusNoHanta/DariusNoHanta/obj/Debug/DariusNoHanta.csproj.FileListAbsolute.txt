@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\DariusNoHanta\DariusNoHanta\bin\Debug\DariusNoHanta.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\DariusNoHanta\DariusNoHanta\bin\Debug\DariusNoHanta.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\DariusNoHanta\DariusNoHanta\obj\Debug\DariusNoHanta.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\DariusNoHanta\DariusNoHanta\obj\Debug\DariusNoHanta.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\DariusNoHanta\DariusNoHanta\obj\Debug\DariusNoHanta.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\DariusNoHanta\DariusNoHanta\obj\Debug\DariusNoHanta.pdb
