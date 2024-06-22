@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\HongJun\HongJun\bin\Debug\HongJun.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\HongJun\HongJun\bin\Debug\HongJun.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\HongJun\HongJun\obj\Debug\HongJun.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\HongJun\HongJun\obj\Debug\HongJun.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\HongJun\HongJun\obj\Debug\HongJun.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\HongJun\HongJun\obj\Debug\HongJun.pdb
