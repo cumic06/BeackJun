@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\A+B-6\A+B-6\bin\Debug\A+B-6.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\A+B-6\A+B-6\bin\Debug\A+B-6.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\A+B-6\A+B-6\obj\Debug\A+B-6.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\A+B-6\A+B-6\obj\Debug\A+B-6.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\A+B-6\A+B-6\obj\Debug\A+B-6.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\A+B-6\A+B-6\obj\Debug\A+B-6.pdb
