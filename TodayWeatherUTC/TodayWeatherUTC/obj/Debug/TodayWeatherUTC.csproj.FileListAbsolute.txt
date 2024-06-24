@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\TodayWeatherUTC\TodayWeatherUTC\bin\Debug\TodayWeatherUTC.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\TodayWeatherUTC\TodayWeatherUTC\bin\Debug\TodayWeatherUTC.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\TodayWeatherUTC\TodayWeatherUTC\obj\Debug\TodayWeatherUTC.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\TodayWeatherUTC\TodayWeatherUTC\obj\Debug\TodayWeatherUTC.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\TodayWeatherUTC\TodayWeatherUTC\obj\Debug\TodayWeatherUTC.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\TodayWeatherUTC\TodayWeatherUTC\obj\Debug\TodayWeatherUTC.pdb
