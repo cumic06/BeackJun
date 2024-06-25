@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\rugbyClub\rugbyClub\bin\Debug\rugbyClub.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\rugbyClub\rugbyClub\bin\Debug\rugbyClub.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\rugbyClub\rugbyClub\obj\Debug\rugbyClub.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\rugbyClub\rugbyClub\obj\Debug\rugbyClub.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\rugbyClub\rugbyClub\obj\Debug\rugbyClub.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\rugbyClub\rugbyClub\obj\Debug\rugbyClub.pdb
