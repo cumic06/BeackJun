@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Mathematics\Mathematics\bin\Debug\Mathematics.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Mathematics\Mathematics\bin\Debug\Mathematics.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Mathematics\Mathematics\obj\Debug\Mathematics.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Mathematics\Mathematics\obj\Debug\Mathematics.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Mathematics\Mathematics\obj\Debug\Mathematics.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Mathematics\Mathematics\obj\Debug\Mathematics.pdb
