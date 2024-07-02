@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\SpecialSchoolName\SpecialSchoolName\bin\Debug\SpecialSchoolName.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SpecialSchoolName\SpecialSchoolName\bin\Debug\SpecialSchoolName.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\SpecialSchoolName\SpecialSchoolName\obj\Debug\SpecialSchoolName.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SpecialSchoolName\SpecialSchoolName\obj\Debug\SpecialSchoolName.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SpecialSchoolName\SpecialSchoolName\obj\Debug\SpecialSchoolName.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SpecialSchoolName\SpecialSchoolName\obj\Debug\SpecialSchoolName.pdb
