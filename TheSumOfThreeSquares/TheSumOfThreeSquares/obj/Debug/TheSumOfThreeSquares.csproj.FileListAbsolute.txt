@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\TheSumOfThreeSquares\TheSumOfThreeSquares\bin\Debug\TheSumOfThreeSquares.exe
+C:\Users\Owner\source\repos\TheSumOfThreeSquares\TheSumOfThreeSquares\bin\Debug\TheSumOfThreeSquares.pdb
+C:\Users\Owner\source\repos\TheSumOfThreeSquares\TheSumOfThreeSquares\obj\Debug\TheSumOfThreeSquares.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\TheSumOfThreeSquares\TheSumOfThreeSquares\obj\Debug\TheSumOfThreeSquares.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TheSumOfThreeSquares\TheSumOfThreeSquares\obj\Debug\TheSumOfThreeSquares.exe
+C:\Users\Owner\source\repos\TheSumOfThreeSquares\TheSumOfThreeSquares\obj\Debug\TheSumOfThreeSquares.pdb
