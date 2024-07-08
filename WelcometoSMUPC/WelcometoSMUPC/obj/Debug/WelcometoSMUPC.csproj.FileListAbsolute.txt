@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\WelcometoSMUPC\WelcometoSMUPC\bin\Debug\WelcometoSMUPC.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\WelcometoSMUPC\WelcometoSMUPC\bin\Debug\WelcometoSMUPC.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\WelcometoSMUPC\WelcometoSMUPC\obj\Debug\WelcometoSMUPC.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\WelcometoSMUPC\WelcometoSMUPC\obj\Debug\WelcometoSMUPC.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\WelcometoSMUPC\WelcometoSMUPC\obj\Debug\WelcometoSMUPC.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\WelcometoSMUPC\WelcometoSMUPC\obj\Debug\WelcometoSMUPC.pdb
