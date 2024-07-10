@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\PromotionSeminar\PromotionSeminar\bin\Debug\PromotionSeminar.exe.config
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\PromotionSeminar\PromotionSeminar\bin\Debug\PromotionSeminar.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\PromotionSeminar\PromotionSeminar\bin\Debug\PromotionSeminar.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\PromotionSeminar\PromotionSeminar\obj\Debug\PromotionSeminar.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\PromotionSeminar\PromotionSeminar\obj\Debug\PromotionSeminar.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\PromotionSeminar\PromotionSeminar\obj\Debug\PromotionSeminar.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\PromotionSeminar\PromotionSeminar\obj\Debug\PromotionSeminar.pdb
