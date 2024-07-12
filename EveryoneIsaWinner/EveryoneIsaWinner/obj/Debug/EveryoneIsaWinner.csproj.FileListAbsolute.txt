@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\EveryoneIsaWinner\EveryoneIsaWinner\bin\Debug\EveryoneIsaWinner.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\EveryoneIsaWinner\EveryoneIsaWinner\bin\Debug\EveryoneIsaWinner.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\EveryoneIsaWinner\EveryoneIsaWinner\obj\Debug\EveryoneIsaWinner.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\EveryoneIsaWinner\EveryoneIsaWinner\obj\Debug\EveryoneIsaWinner.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\EveryoneIsaWinner\EveryoneIsaWinner\obj\Debug\EveryoneIsaWinner.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\EveryoneIsaWinner\EveryoneIsaWinner\obj\Debug\EveryoneIsaWinner.pdb
