@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Casio\Casio\bin\Debug\Casio.exe.config
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Casio\Casio\bin\Debug\Casio.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Casio\Casio\bin\Debug\Casio.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Casio\Casio\obj\Debug\Casio.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Casio\Casio\obj\Debug\Casio.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Casio\Casio\obj\Debug\Casio.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Casio\Casio\obj\Debug\Casio.pdb
