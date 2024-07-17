@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Rats\Rats\bin\Debug\Rats.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Rats\Rats\bin\Debug\Rats.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Rats\Rats\obj\Debug\Rats.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Rats\Rats\obj\Debug\Rats.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Rats\Rats\obj\Debug\Rats.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Rats\Rats\obj\Debug\Rats.pdb
