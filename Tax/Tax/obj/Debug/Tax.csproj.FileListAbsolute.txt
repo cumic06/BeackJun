@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Tax\Tax\bin\Debug\Tax.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Tax\Tax\bin\Debug\Tax.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Tax\Tax\obj\Debug\Tax.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Tax\Tax\obj\Debug\Tax.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Tax\Tax\obj\Debug\Tax.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Tax\Tax\obj\Debug\Tax.pdb
