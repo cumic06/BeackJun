@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\R2\R2\bin\Debug\R2.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\R2\R2\bin\Debug\R2.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\R2\R2\obj\Debug\R2.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\R2\R2\obj\Debug\R2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\R2\R2\obj\Debug\R2.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\R2\R2\obj\Debug\R2.pdb
