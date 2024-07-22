@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\SortingTheThreeNumber\SortingTheThreeNumber\bin\Debug\SortingTheThreeNumber.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SortingTheThreeNumber\SortingTheThreeNumber\bin\Debug\SortingTheThreeNumber.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\SortingTheThreeNumber\SortingTheThreeNumber\obj\Debug\SortingTheThreeNumber.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SortingTheThreeNumber\SortingTheThreeNumber\obj\Debug\SortingTheThreeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SortingTheThreeNumber\SortingTheThreeNumber\obj\Debug\SortingTheThreeNumber.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SortingTheThreeNumber\SortingTheThreeNumber\obj\Debug\SortingTheThreeNumber.pdb
