@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\NoBrainer\NoBrainer\bin\Debug\NoBrainer.exe.config
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\NoBrainer\NoBrainer\bin\Debug\NoBrainer.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\NoBrainer\NoBrainer\bin\Debug\NoBrainer.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\NoBrainer\NoBrainer\obj\Debug\NoBrainer.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\NoBrainer\NoBrainer\obj\Debug\NoBrainer.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\NoBrainer\NoBrainer\obj\Debug\NoBrainer.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\NoBrainer\NoBrainer\obj\Debug\NoBrainer.pdb
