@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\GnomeSequencing\GnomeSequencing\bin\Debug\GnomeSequencing.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\GnomeSequencing\GnomeSequencing\bin\Debug\GnomeSequencing.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\GnomeSequencing\GnomeSequencing\obj\Debug\GnomeSequencing.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\GnomeSequencing\GnomeSequencing\obj\Debug\GnomeSequencing.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\GnomeSequencing\GnomeSequencing\obj\Debug\GnomeSequencing.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\GnomeSequencing\GnomeSequencing\obj\Debug\GnomeSequencing.pdb
