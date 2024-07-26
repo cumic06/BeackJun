@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Lunacy\Lunacy\bin\Debug\Lunacy.exe.config
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Lunacy\Lunacy\bin\Debug\Lunacy.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Lunacy\Lunacy\bin\Debug\Lunacy.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Lunacy\Lunacy\obj\Debug\Lunacy.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Lunacy\Lunacy\obj\Debug\Lunacy.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Lunacy\Lunacy\obj\Debug\Lunacy.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\Lunacy\Lunacy\obj\Debug\Lunacy.pdb
