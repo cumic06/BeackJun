@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\TestPoint\TestPoint\bin\Debug\TestPoint.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\TestPoint\TestPoint\bin\Debug\TestPoint.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\TestPoint\TestPoint\obj\Debug\TestPoint.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\TestPoint\TestPoint\obj\Debug\TestPoint.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\TestPoint\TestPoint\obj\Debug\TestPoint.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\TestPoint\TestPoint\obj\Debug\TestPoint.pdb
