@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\SpeedFinesAreNotFine!\SpeedFinesAreNotFine!\bin\Debug\SpeedFinesAreNotFine!.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SpeedFinesAreNotFine!\SpeedFinesAreNotFine!\bin\Debug\SpeedFinesAreNotFine!.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\SpeedFinesAreNotFine!\SpeedFinesAreNotFine!\obj\Debug\SpeedFinesAreNotFine!.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SpeedFinesAreNotFine!\SpeedFinesAreNotFine!\obj\Debug\SpeedFinesAreNotFine!.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SpeedFinesAreNotFine!\SpeedFinesAreNotFine!\obj\Debug\SpeedFinesAreNotFine!.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SpeedFinesAreNotFine!\SpeedFinesAreNotFine!\obj\Debug\SpeedFinesAreNotFine!.pdb
