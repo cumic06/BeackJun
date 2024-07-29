@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\GotoErrands\GotoErrands\bin\Debug\GotoErrands.exe.config
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\GotoErrands\GotoErrands\bin\Debug\GotoErrands.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\GotoErrands\GotoErrands\bin\Debug\GotoErrands.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\GotoErrands\GotoErrands\obj\Debug\GotoErrands.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\GotoErrands\GotoErrands\obj\Debug\GotoErrands.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\GotoErrands\GotoErrands\obj\Debug\GotoErrands.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\GotoErrands\GotoErrands\obj\Debug\GotoErrands.pdb
