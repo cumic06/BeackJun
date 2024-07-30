@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\SoundsFishy\SoundsFishy\bin\Debug\SoundsFishy.exe.config
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\SoundsFishy\SoundsFishy\bin\Debug\SoundsFishy.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\SoundsFishy\SoundsFishy\bin\Debug\SoundsFishy.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\SoundsFishy\SoundsFishy\obj\Debug\SoundsFishy.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\SoundsFishy\SoundsFishy\obj\Debug\SoundsFishy.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\SoundsFishy\SoundsFishy\obj\Debug\SoundsFishy.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\SoundsFishy\SoundsFishy\obj\Debug\SoundsFishy.pdb
