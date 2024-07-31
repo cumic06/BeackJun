@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Triangles\Triangles\bin\Debug\Triangles.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Triangles\Triangles\bin\Debug\Triangles.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Triangles\Triangles\obj\Debug\Triangles.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Triangles\Triangles\obj\Debug\Triangles.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Triangles\Triangles\obj\Debug\Triangles.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Triangles\Triangles\obj\Debug\Triangles.pdb
