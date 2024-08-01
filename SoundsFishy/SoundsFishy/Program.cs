@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SoundsFishy
 {
@@ -10,29 +6,64 @@ namespace SoundsFishy
     {
         static void Main()
         {
-            List<int> lists = new List<int>();
-
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
             int c = int.Parse(Console.ReadLine());
             int d = int.Parse(Console.ReadLine());
 
-            lists.Add(a);
-            lists.Add(b);
-            lists.Add(c);
-            lists.Add(d);
-
-            if (lists.Equals(lists.OrderBy(e => e).ToList()))
+            if (a > b)
             {
-                Console.WriteLine("Fish Rising");
+                if (b > c)
+                {
+                    if (c > d)
+                    {
+                        Console.WriteLine("Fish Diving");
+                    }
+                    else
+                    {
+                        Console.WriteLine("No Fish");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("No Fish");
+                }
             }
-            else if (lists.Equals(lists.OrderByDescending(e => e)))
+            else if (a < b)
             {
-                Console.WriteLine("Fish Diving");
+                if (b < c)
+                {
+                    if (c < d)
+                    {
+                        Console.WriteLine("Fish Rising");
+                    }
+                    else
+                    {
+                        Console.WriteLine("No Fish");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("No Fish");
+                }
             }
             else
             {
-                Console.WriteLine("No Fish");
+                if (b == c)
+                {
+                    if (c == d)
+                    {
+                        Console.WriteLine("Fish At Constant Depth");
+                    }
+                    else
+                    {
+                        Console.WriteLine("No Fish");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("No Fish");
+                }
             }
         }
     }
