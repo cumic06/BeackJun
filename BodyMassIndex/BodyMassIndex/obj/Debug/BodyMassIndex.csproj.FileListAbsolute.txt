@@ -1,0 +1,7 @@
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.exe.config
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.pdb
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.AssemblyReference.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.CoreCompileInputs.cache
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.exe
+C:\Users\GimGimGim\Desktop\6기 창환파일\BeackJun\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.pdb
