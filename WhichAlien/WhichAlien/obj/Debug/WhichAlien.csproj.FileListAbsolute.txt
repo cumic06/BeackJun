@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\WhichAlien\WhichAlien\bin\Debug\WhichAlien.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\WhichAlien\WhichAlien\bin\Debug\WhichAlien.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\WhichAlien\WhichAlien\obj\Debug\WhichAlien.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\WhichAlien\WhichAlien\obj\Debug\WhichAlien.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\WhichAlien\WhichAlien\obj\Debug\WhichAlien.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\WhichAlien\WhichAlien\obj\Debug\WhichAlien.pdb
