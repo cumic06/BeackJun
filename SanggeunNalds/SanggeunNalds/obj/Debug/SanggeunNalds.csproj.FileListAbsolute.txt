@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\SanggeunNalds\SanggeunNalds\bin\Debug\SanggeunNalds.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SanggeunNalds\SanggeunNalds\bin\Debug\SanggeunNalds.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\SanggeunNalds\SanggeunNalds\obj\Debug\SanggeunNalds.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SanggeunNalds\SanggeunNalds\obj\Debug\SanggeunNalds.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SanggeunNalds\SanggeunNalds\obj\Debug\SanggeunNalds.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SanggeunNalds\SanggeunNalds\obj\Debug\SanggeunNalds.pdb
