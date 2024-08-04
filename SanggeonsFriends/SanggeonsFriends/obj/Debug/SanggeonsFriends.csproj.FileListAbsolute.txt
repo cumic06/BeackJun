@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\SanggeonsFriends\SanggeonsFriends\bin\Debug\SanggeonsFriends.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SanggeonsFriends\SanggeonsFriends\bin\Debug\SanggeonsFriends.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\SanggeonsFriends\SanggeonsFriends\obj\Debug\SanggeonsFriends.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SanggeonsFriends\SanggeonsFriends\obj\Debug\SanggeonsFriends.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SanggeonsFriends\SanggeonsFriends\obj\Debug\SanggeonsFriends.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SanggeonsFriends\SanggeonsFriends\obj\Debug\SanggeonsFriends.pdb

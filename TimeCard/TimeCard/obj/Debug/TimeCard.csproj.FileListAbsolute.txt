@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\TimeCard\TimeCard\bin\Debug\TimeCard.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\TimeCard\TimeCard\bin\Debug\TimeCard.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\TimeCard\TimeCard\obj\Debug\TimeCard.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\TimeCard\TimeCard\obj\Debug\TimeCard.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\TimeCard\TimeCard\obj\Debug\TimeCard.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\TimeCard\TimeCard\obj\Debug\TimeCard.pdb
