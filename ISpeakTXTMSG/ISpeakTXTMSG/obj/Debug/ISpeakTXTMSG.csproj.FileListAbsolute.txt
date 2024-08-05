@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\ISpeakTXTMSG\ISpeakTXTMSG\bin\Debug\ISpeakTXTMSG.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\ISpeakTXTMSG\ISpeakTXTMSG\bin\Debug\ISpeakTXTMSG.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\ISpeakTXTMSG\ISpeakTXTMSG\bin\Debug\ISpeakTXTMSG.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\ISpeakTXTMSG\ISpeakTXTMSG\obj\Debug\ISpeakTXTMSG.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\ISpeakTXTMSG\ISpeakTXTMSG\obj\Debug\ISpeakTXTMSG.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\ISpeakTXTMSG\ISpeakTXTMSG\obj\Debug\ISpeakTXTMSG.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\ISpeakTXTMSG\ISpeakTXTMSG\obj\Debug\ISpeakTXTMSG.pdb
