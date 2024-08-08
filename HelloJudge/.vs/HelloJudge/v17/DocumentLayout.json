@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chang\\OneDrive\\\uBB38\uC11C\\GitHub\\BeackJun\\HelloJudge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E33E9-BE8F-4632-BF09-7DC637FDE075}|HelloJudge\\HelloJudge.csproj|c:\\users\\chang\\onedrive\\\uBB38\uC11C\\github\\beackjun\\hellojudge\\hellojudge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E33E9-BE8F-4632-BF09-7DC637FDE075}|HelloJudge\\HelloJudge.csproj|solutionrelative:hellojudge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chang\\OneDrive\\\uBB38\uC11C\\GitHub\\BeackJun\\HelloJudge\\HelloJudge\\Program.cs",
+              "RelativeDocumentMoniker": "HelloJudge\\Program.cs",
+              "ToolTip": "C:\\Users\\chang\\OneDrive\\\uBB38\uC11C\\GitHub\\BeackJun\\HelloJudge\\HelloJudge\\Program.cs",
+              "RelativeToolTip": "HelloJudge\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:03:06.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

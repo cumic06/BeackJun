@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\HelloJudge\HelloJudge\bin\Debug\HelloJudge.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\HelloJudge\HelloJudge\bin\Debug\HelloJudge.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\HelloJudge\HelloJudge\bin\Debug\HelloJudge.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\HelloJudge\HelloJudge\obj\Debug\HelloJudge.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\HelloJudge\HelloJudge\obj\Debug\HelloJudge.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\HelloJudge\HelloJudge\obj\Debug\HelloJudge.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\HelloJudge\HelloJudge\obj\Debug\HelloJudge.pdb
