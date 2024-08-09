@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiceSack", "RiceSack\RiceSack.csproj", "{BAAEFBBD-4152-4AC6-A526-14EC4C3E4B50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAAEFBBD-4152-4AC6-A526-14EC4C3E4B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAEFBBD-4152-4AC6-A526-14EC4C3E4B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAEFBBD-4152-4AC6-A526-14EC4C3E4B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAEFBBD-4152-4AC6-A526-14EC4C3E4B50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92E8E30D-2683-433F-8A01-2F49636FD345}
+	EndGlobalSection
+EndGlobal

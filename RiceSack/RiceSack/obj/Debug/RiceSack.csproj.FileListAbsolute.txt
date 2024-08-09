@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\RiceSack\RiceSack\bin\Debug\RiceSack.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\RiceSack\RiceSack\bin\Debug\RiceSack.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\RiceSack\RiceSack\bin\Debug\RiceSack.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\RiceSack\RiceSack\obj\Debug\RiceSack.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\RiceSack\RiceSack\obj\Debug\RiceSack.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\RiceSack\RiceSack\obj\Debug\RiceSack.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\RiceSack\RiceSack\obj\Debug\RiceSack.pdb
