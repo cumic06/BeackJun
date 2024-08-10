@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrants\Quadrants\bin\Debug\Quadrants.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrants\Quadrants\bin\Debug\Quadrants.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrants\Quadrants\bin\Debug\Quadrants.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrants\Quadrants\obj\Debug\Quadrants.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrants\Quadrants\obj\Debug\Quadrants.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrants\Quadrants\obj\Debug\Quadrants.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrants\Quadrants\obj\Debug\Quadrants.pdb
