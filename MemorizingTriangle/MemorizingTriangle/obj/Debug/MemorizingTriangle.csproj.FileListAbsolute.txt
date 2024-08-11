@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\MemorizingTriangle\MemorizingTriangle\bin\Debug\MemorizingTriangle.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\MemorizingTriangle\MemorizingTriangle\bin\Debug\MemorizingTriangle.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\MemorizingTriangle\MemorizingTriangle\bin\Debug\MemorizingTriangle.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\MemorizingTriangle\MemorizingTriangle\obj\Debug\MemorizingTriangle.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\MemorizingTriangle\MemorizingTriangle\obj\Debug\MemorizingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\MemorizingTriangle\MemorizingTriangle\obj\Debug\MemorizingTriangle.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\MemorizingTriangle\MemorizingTriangle\obj\Debug\MemorizingTriangle.pdb
