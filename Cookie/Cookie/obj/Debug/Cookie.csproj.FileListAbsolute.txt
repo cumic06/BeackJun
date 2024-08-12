@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Cookie\Cookie\bin\Debug\Cookie.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Cookie\Cookie\bin\Debug\Cookie.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Cookie\Cookie\bin\Debug\Cookie.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Cookie\Cookie\obj\Debug\Cookie.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Cookie\Cookie\obj\Debug\Cookie.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Cookie\Cookie\obj\Debug\Cookie.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Cookie\Cookie\obj\Debug\Cookie.pdb
