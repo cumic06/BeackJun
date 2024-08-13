@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrilateral\Quadrilateral\bin\Debug\Quadrilateral.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrilateral\Quadrilateral\bin\Debug\Quadrilateral.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrilateral\Quadrilateral\bin\Debug\Quadrilateral.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrilateral\Quadrilateral\obj\Debug\Quadrilateral.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrilateral\Quadrilateral\obj\Debug\Quadrilateral.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrilateral\Quadrilateral\obj\Debug\Quadrilateral.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Quadrilateral\Quadrilateral\obj\Debug\Quadrilateral.pdb

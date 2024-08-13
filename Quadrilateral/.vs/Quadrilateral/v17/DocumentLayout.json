@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\BeackJun\\Quadrilateral\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4927E03D-BAD3-42A8-B920-30A6ED6BB0C3}|Quadrilateral\\Quadrilateral.csproj|c:\\users\\owner\\documents\\github\\beackjun\\quadrilateral\\quadrilateral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4927E03D-BAD3-42A8-B920-30A6ED6BB0C3}|Quadrilateral\\Quadrilateral.csproj|solutionrelative:quadrilateral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\BeackJun\\Quadrilateral\\Quadrilateral\\Program.cs",
+              "RelativeDocumentMoniker": "Quadrilateral\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\BeackJun\\Quadrilateral\\Quadrilateral\\Program.cs",
+              "RelativeToolTip": "Quadrilateral\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:33:55.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
