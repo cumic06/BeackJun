@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\IdentifyingTea\IdentifyingTea\bin\Debug\IdentifyingTea.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\IdentifyingTea\IdentifyingTea\bin\Debug\IdentifyingTea.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\IdentifyingTea\IdentifyingTea\bin\Debug\IdentifyingTea.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\IdentifyingTea\IdentifyingTea\obj\Debug\IdentifyingTea.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\IdentifyingTea\IdentifyingTea\obj\Debug\IdentifyingTea.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\IdentifyingTea\IdentifyingTea\obj\Debug\IdentifyingTea.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\IdentifyingTea\IdentifyingTea\obj\Debug\IdentifyingTea.pdb
