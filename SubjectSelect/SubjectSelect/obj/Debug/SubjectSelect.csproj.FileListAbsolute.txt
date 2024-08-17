@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\SubjectSelect\SubjectSelect\bin\Debug\SubjectSelect.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\SubjectSelect\SubjectSelect\bin\Debug\SubjectSelect.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SubjectSelect\SubjectSelect\bin\Debug\SubjectSelect.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\SubjectSelect\SubjectSelect\obj\Debug\SubjectSelect.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SubjectSelect\SubjectSelect\obj\Debug\SubjectSelect.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\SubjectSelect\SubjectSelect\obj\Debug\SubjectSelect.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\SubjectSelect\SubjectSelect\obj\Debug\SubjectSelect.pdb
