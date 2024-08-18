@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Equality\Equality\bin\Debug\Equality.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Equality\Equality\bin\Debug\Equality.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Equality\Equality\bin\Debug\Equality.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Equality\Equality\obj\Debug\Equality.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Equality\Equality\obj\Debug\Equality.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Equality\Equality\obj\Debug\Equality.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Equality\Equality\obj\Debug\Equality.pdb
