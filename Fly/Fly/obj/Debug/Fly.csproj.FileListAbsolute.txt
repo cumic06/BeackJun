@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Fly\Fly\bin\Debug\Fly.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\Fly\Fly\bin\Debug\Fly.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Fly\Fly\bin\Debug\Fly.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Fly\Fly\obj\Debug\Fly.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Fly\Fly\obj\Debug\Fly.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Fly\Fly\obj\Debug\Fly.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Fly\Fly\obj\Debug\Fly.pdb
