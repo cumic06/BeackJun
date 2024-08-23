@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\JudgingMoose\JudgingMoose\bin\Debug\JudgingMoose.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\JudgingMoose\JudgingMoose\bin\Debug\JudgingMoose.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\JudgingMoose\JudgingMoose\bin\Debug\JudgingMoose.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\JudgingMoose\JudgingMoose\obj\Debug\JudgingMoose.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\JudgingMoose\JudgingMoose\obj\Debug\JudgingMoose.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\JudgingMoose\JudgingMoose\obj\Debug\JudgingMoose.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\JudgingMoose\JudgingMoose\obj\Debug\JudgingMoose.pdb
