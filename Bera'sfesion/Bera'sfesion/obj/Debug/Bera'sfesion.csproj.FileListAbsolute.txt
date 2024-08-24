@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Bera'sfesion\Bera'sfesion\bin\Debug\Bera'sfesion.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Bera'sfesion\Bera'sfesion\bin\Debug\Bera'sfesion.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Bera'sfesion\Bera'sfesion\bin\Debug\Bera'sfesion.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Bera'sfesion\Bera'sfesion\obj\Debug\Bera'sfesion.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Bera'sfesion\Bera'sfesion\obj\Debug\Bera'sfesion.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Bera'sfesion\Bera'sfesion\obj\Debug\Bera'sfesion.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Bera'sfesion\Bera'sfesion\obj\Debug\Bera'sfesion.pdb
