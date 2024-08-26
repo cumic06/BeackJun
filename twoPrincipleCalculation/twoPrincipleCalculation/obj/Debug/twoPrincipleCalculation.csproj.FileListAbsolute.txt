@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\twoPrincipleCalculation\twoPrincipleCalculation\bin\Debug\twoPrincipleCalculation.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\twoPrincipleCalculation\twoPrincipleCalculation\bin\Debug\twoPrincipleCalculation.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\twoPrincipleCalculation\twoPrincipleCalculation\bin\Debug\twoPrincipleCalculation.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\twoPrincipleCalculation\twoPrincipleCalculation\obj\Debug\twoPrincipleCalculation.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\twoPrincipleCalculation\twoPrincipleCalculation\obj\Debug\twoPrincipleCalculation.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\twoPrincipleCalculation\twoPrincipleCalculation\obj\Debug\twoPrincipleCalculation.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\twoPrincipleCalculation\twoPrincipleCalculation\obj\Debug\twoPrincipleCalculation.pdb
