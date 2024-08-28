@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\AgeCalculate\AgeCalculate\bin\Debug\AgeCalculate.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\AgeCalculate\AgeCalculate\bin\Debug\AgeCalculate.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\AgeCalculate\AgeCalculate\bin\Debug\AgeCalculate.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\AgeCalculate\AgeCalculate\obj\Debug\AgeCalculate.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\AgeCalculate\AgeCalculate\obj\Debug\AgeCalculate.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\AgeCalculate\AgeCalculate\obj\Debug\AgeCalculate.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\AgeCalculate\AgeCalculate\obj\Debug\AgeCalculate.pdb
