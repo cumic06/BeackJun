@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Dice", "3Dice\3Dice.csproj", "{839FB6FF-CFA9-4CE7-922D-E127D0965130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839FB6FF-CFA9-4CE7-922D-E127D0965130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839FB6FF-CFA9-4CE7-922D-E127D0965130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839FB6FF-CFA9-4CE7-922D-E127D0965130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839FB6FF-CFA9-4CE7-922D-E127D0965130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1B8EC19-501E-4661-B1E1-77774CBD2834}
+	EndGlobalSection
+EndGlobal
