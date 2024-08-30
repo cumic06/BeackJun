@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\VacationHomWork\VacationHomWork\bin\Debug\VacationHomWork.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\VacationHomWork\VacationHomWork\bin\Debug\VacationHomWork.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\VacationHomWork\VacationHomWork\bin\Debug\VacationHomWork.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\VacationHomWork\VacationHomWork\obj\Debug\VacationHomWork.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\VacationHomWork\VacationHomWork\obj\Debug\VacationHomWork.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\VacationHomWork\VacationHomWork\obj\Debug\VacationHomWork.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\VacationHomWork\VacationHomWork\obj\Debug\VacationHomWork.pdb
