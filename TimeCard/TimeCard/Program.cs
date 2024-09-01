@@ -26,18 +26,19 @@ namespace TimeCard
 
                 if (sec < 0)
                 {
+                    sec += 60;
                     min--;
-                    sec = 60 - Math.Abs(s2 - s1);
+                }
 
-                    if (min < 0)
-                    {
-                        hour--;
-                        min = 59 - Math.Abs(m2 - m1);
-                        if (hour < 0)
-                        {
-                            hour = 22 - Math.Abs(h2 - h1);
-                        }
-                    }
+                if (min < 0)
+                {
+                    min += 60;
+                    hour--;
+                }
+
+                if (hour < 0)
+                {
+                    hour += 24;
                 }
 
                 sb.AppendLine($"{hour} {min} {sec}");
