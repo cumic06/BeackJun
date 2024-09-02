@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\NumberOfVowels\NumberOfVowels\bin\Debug\NumberOfVowels.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\NumberOfVowels\NumberOfVowels\bin\Debug\NumberOfVowels.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\NumberOfVowels\NumberOfVowels\bin\Debug\NumberOfVowels.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\NumberOfVowels\NumberOfVowels\obj\Debug\NumberOfVowels.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\NumberOfVowels\NumberOfVowels\obj\Debug\NumberOfVowels.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\NumberOfVowels\NumberOfVowels\obj\Debug\NumberOfVowels.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\NumberOfVowels\NumberOfVowels\obj\Debug\NumberOfVowels.pdb
