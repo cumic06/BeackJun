@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\AroundAboutPlayGround\AroundAboutPlayGround\bin\Debug\AroundAboutPlayGround.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\AroundAboutPlayGround\AroundAboutPlayGround\bin\Debug\AroundAboutPlayGround.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\AroundAboutPlayGround\AroundAboutPlayGround\bin\Debug\AroundAboutPlayGround.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\AroundAboutPlayGround\AroundAboutPlayGround\obj\Debug\AroundAboutPlayGround.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\AroundAboutPlayGround\AroundAboutPlayGround\obj\Debug\AroundAboutPlayGround.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\AroundAboutPlayGround\AroundAboutPlayGround\obj\Debug\AroundAboutPlayGround.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\AroundAboutPlayGround\AroundAboutPlayGround\obj\Debug\AroundAboutPlayGround.pdb
