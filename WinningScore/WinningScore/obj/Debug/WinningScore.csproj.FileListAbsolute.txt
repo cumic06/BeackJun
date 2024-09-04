@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WinningScore\WinningScore\bin\Debug\WinningScore.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WinningScore\WinningScore\bin\Debug\WinningScore.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WinningScore\WinningScore\bin\Debug\WinningScore.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WinningScore\WinningScore\obj\Debug\WinningScore.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WinningScore\WinningScore\obj\Debug\WinningScore.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WinningScore\WinningScore\obj\Debug\WinningScore.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WinningScore\WinningScore\obj\Debug\WinningScore.pdb
