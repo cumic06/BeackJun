@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\TimetoDecompress\TimetoDecompress\bin\Debug\TimetoDecompress.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\TimetoDecompress\TimetoDecompress\bin\Debug\TimetoDecompress.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\TimetoDecompress\TimetoDecompress\bin\Debug\TimetoDecompress.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\TimetoDecompress\TimetoDecompress\obj\Debug\TimetoDecompress.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\TimetoDecompress\TimetoDecompress\obj\Debug\TimetoDecompress.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\TimetoDecompress\TimetoDecompress\obj\Debug\TimetoDecompress.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\TimetoDecompress\TimetoDecompress\obj\Debug\TimetoDecompress.pdb
