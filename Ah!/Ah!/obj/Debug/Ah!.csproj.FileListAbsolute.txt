@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Ah!\Ah!\bin\Debug\Ah!.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Ah!\Ah!\bin\Debug\Ah!.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Ah!\Ah!\bin\Debug\Ah!.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Ah!\Ah!\obj\Debug\Ah!.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Ah!\Ah!\obj\Debug\Ah!.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Ah!\Ah!\obj\Debug\Ah!.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\Ah!\Ah!\obj\Debug\Ah!.pdb
