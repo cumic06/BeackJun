@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\ukje\ukje\bin\Debug\ukje.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\ukje\ukje\bin\Debug\ukje.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\ukje\ukje\bin\Debug\ukje.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\ukje\ukje\obj\Debug\ukje.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\ukje\ukje\obj\Debug\ukje.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\ukje\ukje\obj\Debug\ukje.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\ukje\ukje\obj\Debug\ukje.pdb
