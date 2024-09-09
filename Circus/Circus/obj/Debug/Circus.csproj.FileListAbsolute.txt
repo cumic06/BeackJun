@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Circus\Circus\bin\Debug\Circus.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\Circus\Circus\bin\Debug\Circus.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Circus\Circus\bin\Debug\Circus.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Circus\Circus\obj\Debug\Circus.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Circus\Circus\obj\Debug\Circus.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Circus\Circus\obj\Debug\Circus.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Circus\Circus\obj\Debug\Circus.pdb
