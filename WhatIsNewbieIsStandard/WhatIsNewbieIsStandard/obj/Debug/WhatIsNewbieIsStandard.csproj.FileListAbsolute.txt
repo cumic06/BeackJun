@@ -1,0 +1,7 @@
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WhatIsNewbieIsStandard\WhatIsNewbieIsStandard\bin\Debug\WhatIsNewbieIsStandard.exe.config
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WhatIsNewbieIsStandard\WhatIsNewbieIsStandard\bin\Debug\WhatIsNewbieIsStandard.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WhatIsNewbieIsStandard\WhatIsNewbieIsStandard\bin\Debug\WhatIsNewbieIsStandard.pdb
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WhatIsNewbieIsStandard\WhatIsNewbieIsStandard\obj\Debug\WhatIsNewbieIsStandard.csproj.AssemblyReference.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WhatIsNewbieIsStandard\WhatIsNewbieIsStandard\obj\Debug\WhatIsNewbieIsStandard.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WhatIsNewbieIsStandard\WhatIsNewbieIsStandard\obj\Debug\WhatIsNewbieIsStandard.exe
+C:\Users\chang\OneDrive\문서\GitHub\BeackJun\WhatIsNewbieIsStandard\WhatIsNewbieIsStandard\obj\Debug\WhatIsNewbieIsStandard.pdb
