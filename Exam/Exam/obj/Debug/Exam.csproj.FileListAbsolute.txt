@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\BeackJun\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\Owner\Documents\GitHub\BeackJun\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\Owner\Documents\GitHub\BeackJun\Exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\BeackJun\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\Owner\Documents\GitHub\BeackJun\Exam\Exam\obj\Debug\Exam.pdb
