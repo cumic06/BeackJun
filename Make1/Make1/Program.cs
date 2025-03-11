@@ -5,42 +5,51 @@ namespace Make1
     class Program
     {
         static int count = 0;
+
         static void Main()
         {
             int x = int.Parse(Console.ReadLine());
-            int count = 0;
-
             count += Make1(x);
-            Console.WriteLine(count);
+
+            Console.WriteLine($"totalCount {count}");
         }
 
-        static int Make1(int x)
+        static int[] memo = new int[9999];
+
+        static int Make1(int value)
         {
-            if (x == 1) return 1;
+            if (value == 1) return count;
+            Console.WriteLine($"start Value{value}");
 
-            if (x / 3 == 1)
+            if (value % 3 != 0)
             {
-                x /= 3;
-                count++;
-            }
-            else if (x / 2 == 1)
-            {
-                x /= 2;
-                count++;
-            }
-            else
-            {
-                x--;
+                Console.WriteLine("one");
+                value -= 1;
                 count++;
             }
 
-            if (x == 1)
+            if (value % 3 == 0)
+            {
+                Console.WriteLine("three");
+                value /= 3;
+                count++;
+            }
+            else if (value % 2 == 0)
+            {
+                Console.WriteLine("two");
+                value /= 2;
+                count++;
+            }
+
+            Console.WriteLine($"count {count}");
+
+            if (value == 1)
             {
                 return count;
             }
             else
             {
-                return Make1(x);
+                return Make1(value);
             }
         }
     }
